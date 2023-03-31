@@ -1,2 +1,8 @@
-matplotlib==3.5.0
-numpy==1.19.5
+matplotlib==3.6.3
+numpy==1.24.2
+seaborn==0.12.2
+pandas==1.5.3
+scikit-learn==1.2.1
+pickleshare==0.7.5
+imbalanced-learn==0.10.1
+lime==0.2.0.1
