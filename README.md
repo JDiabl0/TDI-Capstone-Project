@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JDiabl0/binder-framework/master)
 
+Launch the Notebook here: https://mybinder.org/v2/gh/JDiabl0/binder-framework/master
+
 # Predicting Cadets Likely to Struggle in Physics I
 Jason M. Dahl, PhD
 
