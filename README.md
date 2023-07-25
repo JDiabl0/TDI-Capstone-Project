@@ -1,11 +1,12 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JDiabl0/binder-framework/master)
 
-# Capstone Showcase Recording:  https://youtu.be/e7Yg1mQUiQk
 
 Launch the Notebook here: https://mybinder.org/v2/gh/JDiabl0/binder-framework/master
 
 # Predicting Cadets Likely to Struggle in Physics I
 Jason M. Dahl, PhD
+
+### Capstone Showcase Recording: https://youtu.be/e7Yg1mQUiQk
 
 ## Summary
 This tool is a machine learning (ML) model that predicts the cadets most likely to struggle in Physics I based on their prior performance at the USCGA and in high school, for early intervention to provide academic support. 
